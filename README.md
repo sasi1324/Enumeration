@@ -1,5 +1,5 @@
-## NAME: Ryan David Prasad
-## REG. NO.: 212224040282
+## NAME: SASINTHARA S
+## REG. NO.: 212223110045
 
 # Explore Google hacking and enumeration 
 

@@ -84,14 +84,6 @@ CACHE:
 <img width="982" height="302" alt="image" src="https://github.com/user-attachments/assets/d4a52043-a246-4c64-8964-2ef1cc1cb4e8" />
 
 
-## smtp-user-enum
-**Purpose:** Standalone tool used to enumerate valid users by using the VRFY, EXPN, or RCPT TO commands.
-
-**Use case:** Brute-forces SMTP to find users.
-
-```
-smtp-user-enum -M VRFY -U users.txt -t <target-ip>
-```
   
  ## Output
 
